@@ -1,0 +1,38 @@
+keydown event
+key scancode is 50, key virtual key code is 340 
+keydown event
+key scancode is 43, key virtual key code is 72 
+text input event
+character is H
+keyup event
+key scancode is 43, key virtual key code is 72 
+keyup event
+key scancode is 50, key virtual key code is 340 
+keydown event
+key scancode is 26, key virtual key code is 69 
+text input event
+character is e
+keyup event
+key scancode is 26, key virtual key code is 69 
+keydown event
+key scancode is 46, key virtual key code is 76 
+text input event
+character is l
+keyup event
+key scancode is 46, key virtual key code is 76 
+keydown event
+key scancode is 46, key virtual key code is 76 
+text input event
+character is l
+keyup event
+key scancode is 46, key virtual key code is 76 
+keydown event
+key scancode is 32, key virtual key code is 79 
+text input event
+character is o
+keyup event
+key scancode is 32, key virtual key code is 79 
+keydown event
+key scancode is 36, key virtual key code is 257 
+keyup event
+key scancode is 36, key virtual key code is 257 

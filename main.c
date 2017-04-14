@@ -24,7 +24,7 @@ static void key_callback(GLFWwindow* window, int key, int scancode, int action, 
             key
         );
     }
-    else if(action == GLFW_PRESS)
+    else if(action == GLFW_RELEASE)
     {
         printf("keyup event\n");
         printf
@@ -43,6 +43,7 @@ static void key_callback(GLFWwindow* window, int key, int scancode, int action, 
 
 static void character_callback(GLFWwindow* window, unsigned int codepoint)
 {
+    printf("text input event\n");
     printf("character is %c\n", codepoint);
 }
 
